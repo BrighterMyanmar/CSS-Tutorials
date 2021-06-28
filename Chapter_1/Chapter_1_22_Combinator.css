@@ -1,0 +1,11 @@
+h1 ~ p{
+    color:red;
+}
+h1 + i{
+    color:blue;
+    font-weight: bold;
+}
+h1.hh{
+    color:red;
+}
+.wrapper h1 {color:blue;}

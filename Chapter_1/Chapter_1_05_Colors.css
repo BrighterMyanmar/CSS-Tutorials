@@ -1,0 +1,9 @@
+h1{
+    color:red;
+}
+h2{
+    color:rgb(0,225,0);
+}
+h3{
+    color:hsl(240,100%,50%);
+}

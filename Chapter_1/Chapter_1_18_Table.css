@@ -1,0 +1,21 @@
+table, th, td{
+    border:1px solid red;
+}
+caption{
+    font-weight: bold;
+}
+table{
+    width:80%;
+    margin:50px auto;
+    border-collapse: collapse;
+    caption-side:bottom ;
+}
+th{
+    background-color: green;
+    color:#fff;
+}
+td{
+    /* height:100px; */
+    text-align:center;
+    vertical-align: top;
+}

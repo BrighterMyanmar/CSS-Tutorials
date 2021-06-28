@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Burmese;
+    src: url("./assets/fonts/zawgyi.ttf");
+}
+
+p{
+    font-family: Burmese;
+}

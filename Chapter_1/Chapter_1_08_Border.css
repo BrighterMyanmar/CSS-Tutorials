@@ -1,0 +1,31 @@
+div{
+    /* border-width:15px;
+    border-style:solid; 
+    border-color:red;
+    */
+    border-width:15px;
+    border-style:solid;
+
+    border-top-color:red;
+    border-right-color:transparent;
+    border-bottom-color: blue;
+    border-left-color:transparent;
+
+    border-radius:50px ;
+}
+/* div{
+    border-top-width: 5px;
+    border-right-width:10px;
+    border-bottom-width:15px;
+    border-left-width: 20px;;
+
+    border-top:red;
+    border-right-color:green;
+    border-bottom-color: blue;
+    border-left-color:brown;
+
+    border-top-style:dashed;
+    border-right-style:solid;
+    border-bottom-style:dotted;
+    border-left-style:ridge
+} */

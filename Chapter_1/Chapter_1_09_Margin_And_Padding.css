@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+div{
+    border:5px solid red;
+}
+
+.one{
+    /* margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:20px; */
+    /* margin: top right bottom left; */
+    /* margin:10px 20px 30px 40px; */
+    /* margin:top right-left bottom; */
+    /* margin:20px 80px 40px; */
+    /* margin:top-bottom right-left; */
+    /* margin:20px 80px; */
+    /* margin:20px; */
+    /* padding:20px 80px 40px; */
+    /* padding-top:20px;
+    padding-left:30px; */
+    margin:80px;
+}
+p{
+    width:350px;
+    margin:initial;
+    /* margin:0 auto; */
+}

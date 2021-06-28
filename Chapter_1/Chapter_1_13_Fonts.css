@@ -1,0 +1,28 @@
+/* #one{
+    font-family: "Courier New";
+}
+#two{
+    font-family: Arial;
+}
+#three{
+   font-family: "Times New Roman";
+}
+ /*
+p{
+    /* font-family: Roboto; */
+    /* font-family: Oswald; */
+    /* font-style:oblique;
+    font-weight: 900; */
+    /* font-variant: small-caps; */
+    /* font-size:40px; */
+/*} */
+p{
+    /* font-style:italic;
+    font-variant:small-caps;
+    font-weight: bold;
+    font-size:12px;;
+    line-height: 30px;
+    font-family: Roboto; */
+
+    font:italic small-caps bold 12px/30px Roboto, Oswald;
+}

@@ -1,0 +1,7 @@
+body{
+   min-height:5000px;
+   /* background-color: red; */
+   background-image: url("./assets/images/sbg.png");
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+}

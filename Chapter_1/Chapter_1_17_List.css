@@ -1,0 +1,6 @@
+ul{
+    list-style:none inside url("./assets/images/ssbg.png");
+}
+ul > li{
+    border:1px solid red;
+}

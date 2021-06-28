@@ -1,0 +1,22 @@
+h1{
+    color:red;
+    /* text-align:right; */
+    direction: left;
+    text-transform: capitalize;
+    text-shadow: 0 5px 2px black;
+}
+a{
+    text-decoration:line-through;
+}
+
+p{
+    text-align:justify;
+    text-indent: 150px;
+    /* line-height:50px; */
+    /* word-spacing: 50px; */
+    /* letter-spacing: 20px; */
+    white-space: wrap;
+}
+img{
+    vertical-align: baseline;
+}

@@ -1,0 +1,36 @@
+h1{
+    color:rgba(225,0,0,0.5);
+}
+img{
+    opacity: 1;
+    display:block;
+    margin:0 auto;
+    border:1px solid red;
+}
+
+.box{
+    width:150px;
+    height:150px;
+}
+.a{
+    background-color: red;
+}
+.b{
+    background-color:green;
+    /* display:none; */
+    /* visibility: visible; */
+}
+.c{
+    background-color: blue;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+    background-color: red;
+    display:block;
+    padding:10px 20px;
+    margin:5px;
+}

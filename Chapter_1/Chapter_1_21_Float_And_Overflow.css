@@ -1,0 +1,25 @@
+.box{
+    width:50%;
+    height:150px;
+}
+.a{
+    background-color: red;
+    float:left;
+}
+.b{
+    background-color: green;
+    float:left;
+}
+.c{
+    background-color: blue;
+    float:left;
+}
+.foot{
+    clear:both;
+    padding:20px;
+    height:100px;
+    width:200px;
+    white-space: nowrap;
+    border:5px solid red;
+    overflow-x:scroll;
+}

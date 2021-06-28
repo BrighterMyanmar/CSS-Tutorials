@@ -1,0 +1,27 @@
+a{
+    display:inline-block;
+    padding:10px 20px;
+    text-decoration: none;
+    background:red;
+    color:white;
+    border-radius:10px;
+}
+a:hover{
+    background-color: blue;
+}
+/* a:link{
+    color:hotpink;
+}
+a:active{
+    color:green;
+}
+/* a:hover{
+    color:blue;
+} */
+/* a:visited{
+    color:red;
+}
+a:hover{
+    cursor: not-allowed;
+}
+ */ 
