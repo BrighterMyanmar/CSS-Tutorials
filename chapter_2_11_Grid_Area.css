@@ -1,0 +1,27 @@
+header{ grid-area: header}
+nav{ grid-area: nav}
+main{ grid-area: main}
+aside{ grid-area: aside}
+section{ grid-area: section}
+footer{ grid-area: footer}
+
+.container{
+    max-width:960px;
+    margin:0 auto;
+    display:grid;
+    grid-gap:10px;
+    grid-auto-rows: minmax(50px,auto);
+    grid-template-areas: 
+     "header header header"
+     "aside main section"
+     "aside main section"
+     "aside main section"
+     "aside main section"
+     "footer footer footer"
+     "nav nav nav"
+    ;
+}
+
+.container > * {
+    background-color: wheat;
+}
