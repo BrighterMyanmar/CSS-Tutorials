@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transfrom , Tarnslate</title>
+    <style>
+        .box {
+            margin: 50px;
+            padding: 20px;
+            border-left: 7px dashed red;
+        }
+
+        .square {
+            width: 200px;
+            height: 200px;
+            background-color: #555;
+            transition: 5s;
+        }
+
+        .square:hover {
+            transform: rotate(-45deg);
+            /* transform:rotateX(360deg); */
+            /* transform:rotateY(360deg); */
+
+            /* transform : scale(1.5,0); */
+            /* transform :scaleX(0.5); */
+            /* transform :scaleY(1.5); */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <div class="square">
+            <span>Translate</span>
+        </div>
+    </div>
+</body>
+
+</html>
